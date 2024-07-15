@@ -36,7 +36,7 @@ const Footer = () => {
     <><FooterContainer>
       <FooterWrapper>
         <Copyright>
-          &copy; 2023 Nilesh Fatfatwale. All rights reserved.
+          &copy; 2024 Nilesh Fatfatwale. All rights reserved.
         </Copyright>
       </FooterWrapper>
     </FooterContainer>

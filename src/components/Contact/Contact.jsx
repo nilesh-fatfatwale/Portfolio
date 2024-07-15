@@ -122,7 +122,7 @@ const Contact = () => {
     <Container id="contact">
       <InnerContact>
         <InnerContainer>
-          <Title>Contact Me</Title>
+          <Title>Contact</Title>
           <p>
             Please contact me directly at <u>fatfatwalenilesh@gmail.com</u> or through this form.
           </p>

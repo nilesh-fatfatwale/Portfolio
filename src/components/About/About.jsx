@@ -110,6 +110,10 @@ const HorizontalLine = styled.hr`
   
 `;
 const About = () => {
+  const handleDownloadCV = () => {
+    const driveLink = "https://drive.google.com/file/d/1u8Z4T7K9Xr5Cdoc43ZXsnJDdu_IaQKTc/view?usp=sharing";
+    window.open(driveLink, "_blank");
+  };
   return (
 
     <AboutContainer id="about">
@@ -143,7 +147,7 @@ const About = () => {
               delay={200}>
               <Button>Contact Me <IconWrapper><BsArrowUpRight /></IconWrapper></Button>
             </Link>
-            <Button>Download CV <IconWrapper><TfiDownload /></IconWrapper></Button>
+            <Button onClick={handleDownloadCV}>Download CV <IconWrapper><TfiDownload /></IconWrapper></Button>
           </ButtonContainer>
           <HorizontalLine />
         </AboutContent>
