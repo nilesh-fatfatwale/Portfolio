@@ -159,7 +159,7 @@ export const projectData = [
     webLive:'https://sportsscoreboard.vercel.app/'
   },
   {
-    imageUrl: 'https://private-user-images.githubusercontent.com/89182735/348318802-fea4c368-7c95-4765-9446-fae3285a67be.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA3OTk0OTIsIm5iZiI6MTcyMDc5OTE5MiwicGF0aCI6Ii84OTE4MjczNS8zNDgzMTg4MDItZmVhNGMzNjgtN2M5NS00NzY1LTk0NDYtZmFlMzI4NWE2N2JlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzEyVDE1NDYzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA2ODI2MTBhODg2ZDg1NzRjMDFlZTg0MjljMjU0ODA3MDAzNjU2MjQ4NzA4ZTEzOTVkMGM1ZDJhNjI0ZWU5YjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.o8pKsGBkRdIDR5eJe2wxhbNRdon9yRq5kjwotDjKM0E',
+    imageUrl: 'https://github.com/user-attachments/assets/b9fe8f65-d6ae-400a-a66c-e69c493af742',
     title: 'Food Ordering Website',
     githubCode:'https://github.com/nilesh-fatfatwale/Tastytwist',
     webLive:'https://tastytwist.vercel.app/'
