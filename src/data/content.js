@@ -17,7 +17,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "http://vkmsolapur.com/assets/img/img2.png",
+    img: "https://images.shiksha.com/mediadata/images/1579257826phpt0xVFT.png",
     school: "Vasundhara Kala Mahavidyalaya College , Solapur",
     date: "2016 - 2018",
     grade: "58%",
