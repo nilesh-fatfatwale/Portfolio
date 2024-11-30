@@ -1,6 +1,7 @@
 import React from 'react';
 import styled, { keyframes } from 'styled-components';
 import Profile from './Profile.jpg';
+import Images from './Images.jpg';
 import { BsArrowUpRight } from 'react-icons/bs';
 import { TfiDownload } from 'react-icons/tfi';
 import { FaSquareXTwitter, FaLinkedin, FaSquareGithub } from 'react-icons/fa6';
@@ -111,7 +112,7 @@ const HorizontalLine = styled.hr`
 `;
 const About = () => {
   const handleDownloadCV = () => {
-    const driveLink = "https://drive.google.com/file/d/1u8Z4T7K9Xr5Cdoc43ZXsnJDdu_IaQKTc/view?usp=sharing";
+    const driveLink = "https://drive.google.com/file/d/1SAbFU_pw3fK4rrqrnTeBSCg7FDGZJe0E/view?usp=sharing";
     window.open(driveLink, "_blank");
   };
   return (
@@ -119,7 +120,7 @@ const About = () => {
     <AboutContainer id="about">
       <MainAbout2>
         <AboutContent>
-          <ProfileImage src={Profile} alt="React Logo" />
+          <ProfileImage src={Images} alt="React Logo" />
           <h2>Hi I'm Nilesh</h2>
           <CombinedTitle>
             Creating digital <br />
@@ -135,7 +136,7 @@ const About = () => {
             <a href="https://www.linkedin.com/in/nileshfatfatwale/" target="_blank" rel="noopener noreferrer">
               <FaLinkedin />
             </a>
-            <a href="https://twitter.com/_Nileshf" target="_blank" rel="noopener noreferrer">
+            <a href="https://twitter.com/0xnileshf" target="_blank" rel="noopener noreferrer">
               <FaSquareXTwitter />
             </a>
           </ScoialIcon>
