@@ -120,7 +120,7 @@ const About = () => {
     <AboutContainer id="about">
       <MainAbout2>
         <AboutContent>
-          <ProfileImage src={Images} alt="React Logo" />
+          <ProfileImage src="https://avatars.githubusercontent.com/u/89182735?s=400&u=32835c1b590f98488d0c5f699160614857bf8b2f&v=4" alt="Avatar" />
           <h2>Hi I'm Nilesh</h2>
           <CombinedTitle>
             Creating digital <br />
